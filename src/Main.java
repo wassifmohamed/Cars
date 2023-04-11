@@ -9,6 +9,13 @@ public class Main {
         audi.power="5000cc";
 
 
+        Engine X = new Engine();
+           X.cylinders="8";
+           X.size="5421j";
+           X.weight="12542kg";
+           
+
+
 
     }
 }
